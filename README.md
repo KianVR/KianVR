@@ -10,9 +10,9 @@
 
 
 ### Personal Information
-- 🏡 Lives in Belgium - Antwerp
-- 📬 Email https://mail:mail@kianvr.be/
-- ☎️ Phonenumber **Nononono**
+- 🏡 *Lives in Belgium - Antwerp*
+- 📬 *Email* **mail@kianvr.be**
+- ☎️ *Phonenumber* **Nononono**
 
 
 - 🔑 Trying is the key to success.
