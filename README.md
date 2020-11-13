@@ -13,6 +13,7 @@
 - 🏡 *Lives in Belgium - Antwerp*
 - 📬 *Email* **mail@kianvr.be**
 - ☎️ *Phonenumber* **Nononono**
+- 👀 *Discord* **</𝙆𝙞𝙖𝙣>#2870**
 
 
 - 🔑 Trying is the key to success.
