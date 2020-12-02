@@ -2,7 +2,7 @@
 
 ### Experience
 - 📝 FiveM Developer / Visual Developer
-- 🔐 Learning Laravel
+- 🔐 PHP | Learning Laravel
 - ⚠️ Frond-end Developer
 
 - 🔎 Is open to projects...
