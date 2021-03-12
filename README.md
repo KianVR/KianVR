@@ -13,7 +13,7 @@
 - 🏡 *Lives in Belgium - Antwerp*
 - 📬 *Email* **mail@kianvr.be**
 - ☎️ *Phonenumber* **Nononono**
-- 👀 *Discord* **Mr. Deurmat#0791**
+- 👀 *Discord* **Mr. Deurmat#1234**
 
 
 - 🔑 Trying is the key to success.
