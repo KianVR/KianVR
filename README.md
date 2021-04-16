@@ -11,13 +11,13 @@
 
 - 🔎 Is open to projects...
 
-
-
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
-- 📬 *Email* **mail@kianvr.be**
-- ☎️ *Phonenumber* **Nononono**
+- 📬 *Email* **mail@kianvanriel.be**
 - 👀 *Discord* **Mr. Deurmat#1234**
+- 💻 *Website* **https://kianvanriel.be/**
 
 
 - 🔑 Trying is the key to success.
+- 🌈 Believe in yourself!
+- 
