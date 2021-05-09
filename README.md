@@ -17,6 +17,6 @@
 - 👀 *Discord* **Mr. Deurmat#1234**
 - 💻 *Website* **https://kianvanriel.be/**
 
-### Trust yourself
-- 🔑 Trying is the key to success.
-- 🌈 Believe in yourself!
+
+### Projects
+- 📢 *Busy with custom FiveM Framework*
