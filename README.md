@@ -5,8 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KianVR&count_private=true&show_icons=true&theme=omni)
 
 ### Experience
-- 📝 FiveM Developer / Visual Developer
-- 🔐 Learning every day...
+- 📝 FiveM Scripter / Visual Developer
 - ⚠️ Frond-end Developer
 
 - 🔎 Is open to projects...
