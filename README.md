@@ -13,7 +13,7 @@
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
 - 📬 *Email* **mail@kianvanriel.be**
-- 👀 *Discord* **Mr. Deurmat#1234**
+- 👀 *Discord* **Mr. Deurmat | Kian#1234**
 - 💻 *Website* **https://kianvanriel.be/**
 
 
