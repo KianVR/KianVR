@@ -6,9 +6,9 @@
 
 ### Experience
 - 📝 FiveM Scripter / Visual Developer
+- 🇧🇪 Belgium Modding - Owner **https://discord.gg/AaxSsJe**
 - ⚠️ Frond-end Developer
 
-- 🔎 Is open to projects...
 
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
@@ -19,4 +19,3 @@
 
 ### Projects
 - 💻 *Head-Developer at Project-ML (https://projectml.nl/)*
-- 📢 *Busy with custom FiveM Framework*
