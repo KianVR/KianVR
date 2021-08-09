@@ -6,7 +6,6 @@
 
 ### Experience
 - 📝 FiveM Scripter / Visual Developer
-- 🇧🇪 Belgium Modding - Owner **https://discord.gg/AaxSsJe**
 - ⚠️ Frond-end Developer
 
 
