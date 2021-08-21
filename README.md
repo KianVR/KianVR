@@ -15,6 +15,3 @@
 - 👀 *Discord* **Mr. Deurmat | Kian#1234**
 - 💻 *Website* **https://kianvanriel.be/**
 
-
-### Projects
-- 💻 *Head-Developer at Project-ML (https://projectml.nl/)*
