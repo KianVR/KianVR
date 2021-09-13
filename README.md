@@ -13,5 +13,7 @@
 - 🏡 *Lives in Belgium - Antwerp*
 - 📬 *Email* **mail@kianvanriel.be**
 - 👀 *Discord* **Mr. Deurmat | Kian#1234**
-- 💻 *Website* **https://kianvanriel.be/**
 
+### Projects
+- ⭐️ *Project NXT - Next Generation Roleplay*
+- ⚡️ *MRD Frameworks - Next Generation FiveM!*
