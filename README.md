@@ -6,12 +6,12 @@
 
 ### Experience
 - 📝 FiveM Scripter / Visual Developer
-- ⚠️ Frond-end Developer
+- ⚠️ Front-end Developer
+- ⚠️ Back-end Develper
 
 
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
-- 📬 *Email* **mail@kianvanriel.be**
 - 👀 *Discord* **Mr. Deurmat | Kian#1234**
 
 ### Projects
