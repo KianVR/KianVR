@@ -15,5 +15,4 @@
 - 👀 *Discord* **Mr. Deurmat | Kian#1234**
 
 ### Projects
-- ⭐️ *Project NXT - Next Generation Roleplay*
 - ⚡️ *MRD Frameworks - Next Generation FiveM!*
