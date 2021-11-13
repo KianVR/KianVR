@@ -12,7 +12,7 @@
 
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
-- 👀 *Discord* **Mr. Deurmat | Kian#1234**
+- 👀 *Discord* **Kian.#1234**
 
 ### Projects
 - ⚡️ *MRD Frameworks - Next Generation FiveM!*
