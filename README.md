@@ -12,7 +12,4 @@
 
 ### Personal Information
 - 🏡 *Lives in Belgium - Antwerp*
-- 👀 *Discord* **Kian.#1234**
-
-### Projects
-- ⚡️ *MRD Frameworks - Next Generation FiveM!*
+- 👀 *Discord* **@Kian.#1234**
