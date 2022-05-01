@@ -13,7 +13,3 @@
 ### Personal Information
 - 🏡 Lives in Belgium - Antwerp
 - 👀 Discord **@Kian.#1234**
-
-### Groups
-- 🧰 Belgium Modding Team
-- 🔐 Locked Development
