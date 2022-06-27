@@ -21,6 +21,3 @@
 ### Personal Information
 - 🏡 Lives in Belgium - Antwerp
 - 👀 Discord **@Kian.#1234**
-
-### Projects
-PM if you
