@@ -14,7 +14,7 @@
 ### FiveM | Experience
 - 📝 FiveM Scripter / Visual Developer
 - ⚠️ Frontend Developer
-- ⚠️ Backend Develper
+- ⚠️ Backend Developer
 
 
 ### Personal Information
