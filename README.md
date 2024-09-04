@@ -5,7 +5,7 @@ Hi 👋 My name is Kian
 -------------
 
 * 🌍  I'm based in Belgium, Antwerp
-* 🖥️  See my portfolio at [my website](http://mrdeurmat.dev/)
+* 🖥️  See my portfolio at [my website](http://kianvr.me/)
 * ✉️  You can contact me at [mail@kianvr.me](mailto:mail@kianvr.me)
 * 🤝  I'm open to collaborating on FiveM Projects
 
