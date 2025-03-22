@@ -2,7 +2,6 @@ Hi 👋 My name is Kian
 =====================
 
 * 🌍  I'm based in Belgium, Antwerp
-* 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/KianVR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KianVR?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
